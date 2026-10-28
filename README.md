@@ -53,8 +53,6 @@ Desenvolvo aplicações web completas, do banco de dados à interface, e automat
 
 <img src="https://streak-stats.demolab.com?user=CAITANO19&theme=github-dark&hide_border=true" alt="Sequência de contribuições" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CAITANO19&theme=github-compact&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point_color=FFFFFF" alt="Gráfico de atividade recente" />
-
 </div>
 
 ## Contribuições
