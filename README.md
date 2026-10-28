@@ -30,9 +30,9 @@ Desenvolvo aplicações web completas, do banco de dados à interface, e automat
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="PostgreSQL e SQLite" />
 
-**DevOps e ferramentas**
+**Docker e ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,linux" alt="Git, GitHub, GitHub Actions, Nginx e Linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,linux" alt="Docker, Git, GitHub, GitHub Actions, Nginx e Linux" />
 
 ## Projetos em destaque
 
